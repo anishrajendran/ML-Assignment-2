@@ -1,8 +1,9 @@
+streamlit
 pandas
+numpy
 requests
 matplotlib
 seaborn
 scikit-learn
-streamlit
 joblib
-xgboost
+xgboost==1.7.6
