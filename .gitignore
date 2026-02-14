@@ -1,5 +1,4 @@
 venv/
-model/
 test_data/
 training/winequality.csv
 .env
